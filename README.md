@@ -17,7 +17,7 @@
 ### 🏠 [Homepage](https://github.com/loTus04/Bad_Boy/blob/main/README.md)
 
 ### ✨ [Demo](https://media.discordapp.net/attachments/919204721024204820/919233013852799036/BadBoyHelp.png)
-<img src="https://github.com/loTus04/Bad_Boy/blob/main/img/BadBoyHelp.PNG?raw=true" width="618" height="357"/>
+<img src="https://media.discordapp.net/attachments/919204721024204820/919233013852799036/BadBoyHelp.png" width="618" height="357"/>
 <img src="https://media.discordapp.net/attachments/919204721024204820/919233018235871322/BadBoyLogs.png" width="385" height="388"/>
 
 ## Prerequisites
